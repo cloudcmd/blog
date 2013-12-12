@@ -1,6 +1,5 @@
 ---
 layout: post
-category : post
 ---
 
 So the day of new release of [Cloud Commander](http://cloudcmd.io "Cloud Commander") is came.  You could download it from [here](https://github.com/coderaiser/cloudcmd/releases/tag/v0.5.0 "here").

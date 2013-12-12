@@ -1,6 +1,5 @@
 ---
 layout: post
-category : post
 ---
 
 A couple days ago rastacoding was closed. So I should find a way to countinue blogging in same way. So lets try this things here.

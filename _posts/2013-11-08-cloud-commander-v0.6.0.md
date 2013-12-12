@@ -1,6 +1,5 @@
 ---
 layout: post
-category : post
 ---
 
 ![Config](http://cloudcmd.io/img/screen/config.png)

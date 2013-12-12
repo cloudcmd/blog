@@ -1,6 +1,5 @@
 ---
 layout: post
-category : post
 ---
 
 A couple days ago new version of [Cloud Commander](http://cloudcmd.io "Cloud Commander") was released. So you can download last stable version on [this](https://github.com/coderaiser/cloudcmd/releases/tag/v0.4.0 "v0.4.0") page. New [demo](http://io.cloudcmd.io "demo") page was added so feel free to test and look around.
