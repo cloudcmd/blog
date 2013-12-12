@@ -3,8 +3,7 @@ layout: post
 category : post
 ---
 
-Title: Lets the story begin
-Date: 2013-08-23 15:30
+{% include JB/setup %}
 
 A couple days ago rastacoding was closed. So I should find a way to countinue blogging in same way. So lets try this things here.
 
