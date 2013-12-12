@@ -12,7 +12,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Cloud Commander Bog
-tagline: blog about Cloud Commander
+tagline: blog about cloud file manager
 author :
   name : Coderaiser
   email : coderaiser@cloudcmd.io
