@@ -11,7 +11,8 @@ layout: page
                 <h2 class="post-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt">
-                <p>{{ post.description | post.content | truncatewords: 40 }}</p>
+                <p>{{ post.content | truncatewords: 40 }}</p>
+                <!-- {{ post.content }} -->
             </section>
         </article>
     {% endfor %}
