@@ -1,5 +1,7 @@
-Title: How to write an article on wiki?
-Date: 2013-10-09 14:55 
+---
+layout: post
+category : post
+---
 
 So I tried to write an article about [Cloud Commander](http://cloudcmd.io "Cloud Commander") in [Wiki](http://wikipedia.org "Wiki"). But it's harder then I thought. A couple minutes after creating it was marked  as recommended for deletion. Well... OK, this was with me earlier but this message appears for a month and then it disappeared in some moment. 
 
