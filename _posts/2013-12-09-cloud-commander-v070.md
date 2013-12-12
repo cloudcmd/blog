@@ -1,6 +1,3 @@
-Title: Cloud Commander v0.7.0
-Date: 2013-12-09 12:01 
-
 Let's talk about new [version](https://github.com/coderaiser/cloudcmd/releases/tag/v0.7.0 "0.7.0"). A couple things was fixed but features  is great for real in this version.
 
 Combine
