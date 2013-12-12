@@ -85,6 +85,10 @@ body {
     color: #3A4145;
 }
 
+img {
+    max-width: 100%;
+}
+
 ::-moz-selection {
     color: #222;
     background: #D6EDFF;
