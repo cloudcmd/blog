@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Cloud Commander Blog
+tagline: blog about cloud file manager
 ---
 {% include JB/setup %}
 
