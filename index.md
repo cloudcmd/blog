@@ -13,7 +13,7 @@ tagline: blog about cloud file manager
                 <h2 class="post-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt">
-                <p>post.description</p>
+                <p>{{ post.description }}</p>
             </section>
         </article>
     {% endfor %}
