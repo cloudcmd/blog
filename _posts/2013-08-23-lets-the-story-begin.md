@@ -3,8 +3,6 @@ layout: post
 category : post
 ---
 
-{% include JB/setup %}
-
 A couple days ago rastacoding was closed. So I should find a way to countinue blogging in same way. So lets try this things here.
 
 **Kodingen** was good place to host such site, but like any others this project is mortal. But unlike many others it was reborn like a phoenix from the ashes in **Koding**.
