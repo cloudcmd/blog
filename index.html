@@ -22,7 +22,13 @@ tagline: blog about cloud file manager
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+   <p class="previous">
+      {% if paginator.previous_page == 1 %}
+        <a href="/">Previous</a>
+      {% else %}
+        <a href="{{ paginator.previous_page_path }}">Previous</a>
+      {% endif %}
+    </p>
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
