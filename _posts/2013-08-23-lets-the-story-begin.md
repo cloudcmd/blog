@@ -1,3 +1,8 @@
+---
+layout: post
+category : post
+---
+
 Title: Lets the story begin
 Date: 2013-08-23 15:30
 
