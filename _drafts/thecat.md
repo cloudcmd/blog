@@ -1,2 +1,23 @@
-
 ![TheCat](http://cat.cloudcmd.io/cat.png)
+
+
+A little bit fun for today friday.
+Not so long time ago i wrote litle [cat server](http://coderaiser.github.io/thecat "The Cat").
+It's easy-to-use service with one task to do. It serve cats. New cat on every request.
+
+You could add the cat to your site. It's as easy as to type a couple commands.
+If you use Markdown, this can help.
+```
+  ![The cat](http://cat.cloudcmd.io/cat.png)
+```
+
+Html version downside.
+```
+  <img alt="The Cat" src=http://cat.cloudcmd.io/cat.png />
+```
+The reason why I made this, just for fun at first. And for second if you have to
+generate some data on any reason you could show people thing almost everybody loves :).
+
+This could not be done whitout [this](http://iconka.com "Iconka") man, who paint cats :).
+If you interested how it's working from the inside look github repo.
+Pull requests are wellcome. Spread the cat :).
