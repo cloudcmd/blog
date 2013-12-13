@@ -2,7 +2,8 @@
 layout: post
 ---
 
-Let's talk about new [version](https://github.com/coderaiser/cloudcmd/releases/tag/v0.7.0 "0.7.0"). A couple things was fixed but features  is great for real in this version.
+Let's talk about new [version](https://github.com/coderaiser/cloudcmd/releases/tag/v0.7.0 "0.7.0"). A couple things was fixed but features is great for real in this version. Today we will talk about such features
+as **Combine**, **localStorage** and **Notification**. First one is feature of Commander, and others is HTML5.
 
 Combine
 ------------
