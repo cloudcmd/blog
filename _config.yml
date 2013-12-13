@@ -11,7 +11,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Cloud Commander Bog
+title : Cloud Commander Blog
 tagline: blog about cloud file manager
 author :
   name : Coderaiser
