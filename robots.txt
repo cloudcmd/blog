@@ -1,0 +1,3 @@
+Host: blog.cloudcmd.io
+User-agent: *
+Allow: *
