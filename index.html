@@ -23,13 +23,15 @@ layout: page
 
 <!-- Pagination links -->
 <div class="pagination">
-  {% if paginator.previous_page == 1 %}
-    <a href="/">← Previous</a>
-  {% else %}
-    <a href="{{ paginator.previous_page_path }}">← Previous</a>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="next">Next →</a>
-  {% endif %}
+    {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+            <a href="/">← Previous</a>
+        {% else %}
+            <a href="{{ paginator.previous_page_path }}">← Previous</a>
+        {% endif %}
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+        <a href="/page{{ paginator.next_page }}" class="next">Next →</a>
+    {% endif %}
 </div>
