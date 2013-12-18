@@ -6,6 +6,7 @@ layout: post
 
 Very soon would be New Year and Christmas Eve. So I want to
 show you a couple images I had paint not a very long time ago.
+I'm not a very good artist, so do not laugh :).
 
 ![summer](https://files.cloudcmd.io/img/paint/summer.jpg)
 
