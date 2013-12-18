@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![Config](https://cloudcmd.io/img/screen/config.png)
+![Config](https://cloudcmd.io/img/screen/config.png "Config")
 [Last version](http://blog.cloudcmd.io/post/cloud-commander-v0.5.0 "Cloud Commander v0.5.0") of [Cloud Commander](http://cloudcmd.io "Cloud Commander") was released a month ago so today is time for new version. It could be downloaded [here](https://github.com/coderaiser/cloudcmd/releases/tag/v0.6.0 "Cloud Commander v0.6.0"). Lets talk about fixes and features.
 Fix
 ------
