@@ -20,4 +20,4 @@ This is tree of life. Overflowing with energy.
 I'm not a very good at painting, as you can see, but
 I hope on next year my paints would be better.
 
-I wish you have a good time on this holidays :)...
+I wish you have a good time on this holidays :).
