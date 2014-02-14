@@ -19,7 +19,7 @@ this.exec                       = function(callback) {
         args    = Util.slice(arguments, 1);
    
     if (Util.isFunction(callback))
-    ret         = callback.apply(null, args);
+        ret     = callback.apply(null, args);
     
     return ret;
 };
