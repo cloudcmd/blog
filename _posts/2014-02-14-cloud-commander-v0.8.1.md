@@ -55,3 +55,5 @@ userfriendly. Happy using :).
 By the way, almost forgat, you could watch [screenshots history](http://screen.cloudcmd.io "Screenshots history") of file manage in newly created page.
 
 You could download last verion of Cloud Commander from this [link](https://github.com/coderaiser/cloudcmd/releases/tag/v0.8.1 "Cloud File manager").
+
+Happy Valentine's Day! I wish you hold this weekend with people you love :)
