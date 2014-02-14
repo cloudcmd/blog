@@ -36,7 +36,7 @@ All tests was fixed. But it's not a big thing ofcorse.
 
 What is more interesting, is ability to select files `*`, `+` keys and
 deselect them whith `-` key. All this things works with simple file formats, you
-actualy now it: `*.*` - for any file whith any extension etc.
+actualy know it: `*.*` - for any file whith any extension etc.
 
 `CloudCmd.View` sometimes after show looks very strange and start tweaking.
 This was fixed by changing config paramter `loop:false` and adding this function:
