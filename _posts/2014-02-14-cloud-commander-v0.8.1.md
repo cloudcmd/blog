@@ -12,6 +12,7 @@ is now called **join** it shorter and simpler. But still very usefull.
 
 In this release speed was enhanced with `exec` function of `Util` module.
 This is how it looks now:
+
 ```js
 this.exec                       = function(callback) {
     var ret,
@@ -39,11 +40,13 @@ actualy now it: `*.*` - for any file whith any extension etc.
 
 `CloudCmd.View` sometimes after show looks very strange and start tweaking.
 This was fixed by changing config paramter `loop:false` and adding this function:
+
 ```js
 function rmKeys() {
     $.fancybox.defaults.keys = null;
 }
 ```
+
 Which do next thing: if some symbol keys was pressed loop begins.
 
 As always code of file manager is more stable now, more easy to mantain and more
