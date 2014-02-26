@@ -1,3 +1,4 @@
 Host: blog.cloudcmd.io
 User-agent: *
 Allow: *
+Sitemap: http://blog.cloudcmd.io/sitemap.xml
