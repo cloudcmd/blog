@@ -2,7 +2,7 @@
     <article class="post">
         <span class="post-meta">
             <time datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time> 
-            (<a href="https://github.com/cloudcmd/blog/edit/gh-pages/_posts/{{ page.date | date: '%Y-%m-%d'}}-{{ page.title | downcase | replace: '%20', '-' }}.md">fix typos</a>)
+            (<a href="https://github.com/cloudcmd/blog/edit/gh-pages/_posts/{{ page.date | date: '%Y-%m-%d'}}-{{ page.title | downcase | replace: ' ', '-' }}.md">fix typos</a>)
         </span>
         <h1 class="post-title">{{ page.title }}</h1>
         <section class="post-content">
