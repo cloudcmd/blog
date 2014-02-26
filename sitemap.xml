@@ -5,10 +5,9 @@ layout: nil
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for post in site.posts %}
   <url>
-    <loc>{{production_url}}/{{ post.url }}</loc>
+    <loc>{{site.production_url}}{{ post.url }}</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     <changefreq>daily</changefreq>
   </url>
   {% endfor %}
 </urlset>
-{% endhighlight %}
