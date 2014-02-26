@@ -5,7 +5,7 @@ layout: post
 So the day of new release of [Cloud Commander](http://cloudcmd.io "Cloud Commander") is came.  You could download it from [here](https://github.com/coderaiser/cloudcmd/releases/tag/v0.5.0 "here").
 Let's talk a little bit about new features.
 
-1. Render was changed from "{, }" to [handlerbars](http://handlebarsjs.com/ "handlebars") style, which is "{{, }}".
+1. Render was changed from "{, }" to [handlebars](http://handlebarsjs.com/ "handlebars") style, which is "{{, }}".
 Thing is [jekyll](http://jekyllrb.com "Jekyll") use it by default. So because [cloudcmd.io](http://cloudcmd.io "Cloud Commander") works on Jekyll as like [Ukrainian](http://ua.cloudcmd.io "Ukrainian") and [Russian](http://ru.cloudcmd.io "Russian") translations. It's better to use single style.
 
 2. Add **noindex** and **nofollow** meta tags to index html. So no search bots would came to **Commander** and this is good.
