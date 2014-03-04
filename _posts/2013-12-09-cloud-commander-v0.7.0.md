@@ -31,7 +31,7 @@ Folders content is saving to Storage on first came. It's not a big deal.
 
 But for now files content is saves to Storage to :). If option localStorage in **config** is set to "true".
 
-When file is opened for first time it's content is saved to localStorage with hash tag. When you try to save something (add **diff** options is enabled), diff of file content is send to server, and new hash is getting up. So work with files should be much faster then is was.
+When file is opened for first time it's content is saved to localStorage with hash tag. When you try to save something (and **diff** options is enabled), diff of file content is send to server, and new hash is getting up. So work with files should be much faster then is was.
 
 
 Notifications
