@@ -1,9 +1,9 @@
 {% if site.JB.analytics %}
     {% if site.JB.analytics.google %}
-        {% include JB/_analytics/google %}
+        {% include JB/_analytics/google.html %}
     {% endif %}
     
-    {% if site.JB.analytics.yandex" %}
-        {% include JB/_analytics/yandex %}
+    {% if site.JB.analytics.yandex %}
+        {% include JB/_analytics/yandex.html %}
     {% endif %}
 {% endif %}
