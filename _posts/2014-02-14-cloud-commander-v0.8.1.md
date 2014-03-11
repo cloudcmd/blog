@@ -52,8 +52,8 @@ Which do next thing: if some symbol keys was pressed loop begins.
 As always code of file manager is more stable now, more easy to mantain and more
 userfriendly. Happy using :).
 
-By the way, almost forgat, you could watch [screenshots history](http://screen.cloudcmd.io "Screenshots history") of file manager in newly created page.
+By the way, almost forgat, you could watch [screenshots history](http://screen.cloudcmd.io "Screenshots history") of Cloud Commander in newly created page.
 
-You could download last verion of Cloud Commander from this [link](https://github.com/coderaiser/cloudcmd/releases/tag/v0.8.1 "Cloud File manager").
+You could get last two verions of file manager from this links: [0.8.1](https://github.com/coderaiser/cloudcmd/releases/tag/v0.8.1 "Cloud Commnader v0.8.1") and [0.8.0](https://github.com/coderaiser/cloudcmd/releases/tag/v0.8.0 "Cloud Commander v0.8.0").
 
 Happy Valentine's Day! I wish you hold this weekend with people you love :)
