@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Fist of all I want admit new font icons you could see on menu and commands buttons.
+First of all I want admit new font icons you could see on menu and commands buttons.
 This should make UI of file manager more userfriendly. Hope it does :).
 
 ![Edit](http://screen.cloudcmd.io/cloudcmd-v0.8.0-menu.png "Menu")
