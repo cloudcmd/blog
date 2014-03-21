@@ -8,14 +8,10 @@ paginate_path: "/page:num"
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
-#
 title : Cloud Commander Blog
-tagline: blog about cloud file manager
+tagline: blog about web based orthodox file manager
 author :
   name : Coderaiser
-  email : coderaiser@cloudcmd.io
   github : coderaiser
   twitter : coderaiser_
 
