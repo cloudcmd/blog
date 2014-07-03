@@ -5,7 +5,7 @@ layout: post
 Today is a big day. Cloud Commander version is [1.0.0](https://github.com/coderaiser/cloudcmd/releases/tag/v1.0.0).
 It's realy stable, I'm not kidding you :). I use it for work on my projects, write articles like [this one in Russian](http://habrahabr.ru/post/226257/).
 
-I hope you will be happy with improvements and fixes it has. If not feel free to make [issue](https://github.com/coderaiser/cloudcmd/issues/new),
+I hope you will be happy with improvements and fixes it has. If no, feel free to make [issue](https://github.com/coderaiser/cloudcmd/issues/new),
 pull requests are wellcome. Lets talk about new things that are waiting for you in this big release.
 
 ## New look of Refresh and Clear Storage icons
