@@ -69,6 +69,7 @@ It's very simple for now. I'm new to `Objective C` so pull requests are welcome 
 
 Work with Cloud Commander from terminal? No problem! You could try [client for Cloud Commander's console](https://github.com/coderaiser/shinju).
 All you need is running server part. It would looks like in build-in terminal:
+
 ```sh
 > shinju http://localhost:8000
 
