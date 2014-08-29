@@ -87,7 +87,7 @@ And this on client:
 </script>
 ```
 
-## Afterwards
+## Afterword
 
 I hope you appreciate all this things. It's not so easy, but realy funny. Have a good time using
 all this stuff. That is all for today :).
