@@ -3,7 +3,7 @@ layout: post
 ---
 
 Cloud Commander [v1.2.0](https://github.com/coderaiser/cloudcmd/releases/tag/v1.2.0) is out.
-All this time a lot work was done about decomposition of server side.
+During time between releases a lot work was done about decomposition of server side.
 
 On the way a lot modules where made and published on npm. We will talk about it today.
 Another big changes was with config, and a little bit new features would be to.
