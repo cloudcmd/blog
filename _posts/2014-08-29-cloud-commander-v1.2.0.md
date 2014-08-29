@@ -20,7 +20,7 @@ using menu or hot keys `Ctrl + x`, `Ctrl + c`, `Ctrl + v`, `Ctrl + z`.
 Becouse of new **Buffer** functions and fact, that it depends on `localStorage`, new options in **Config**
 were added.
 
-![Config](http://screen.cloudcmd.io/v1.2.0/config.png "Config")
+![Config](http://files.cloudcmd.io/img/2014-08-29-cloud-commander-v1.2.0/config.png "Config")
 
 As you can see `appCache` was removed, and `Directory Storage` and `Buffer` was added.
 `Directory Storage` was enabled by default, but now it could be disabled. This option
@@ -29,7 +29,7 @@ it's useful, so now can rule it whenever you like :).
 
 ## New Menu
 
-![Menu](http://screen.cloudcmd.io/v1.2.0/menu.png "Menu")
+![Menu](http://files.cloudcmd.io/img/2014-08-29-cloud-commander-v1.2.0/menu.png "Menu")
 
 Not only **Config** changed. To **Menu** a couple items was added:
 
