@@ -24,7 +24,10 @@ Cloud Commander.
 
 ## Editors
 
-You can choose editor you want: [Edward](https://github.com/cloudcmd/edward "Edward")(based on [Ace](http://ace.c9.io "Ace")) or [Dword](https://github.com/cloudcmd/dword "Dword")(based on
+![Edward](http://files.cloudcmd.io/img/2015-06-05-cloud-commander-v3/edward.png "Edward")
+![Dword](http://files.cloudcmd.io/img/2015-06-05-cloud-commander-v3/dword.png "Dword")
+
+You can choose editor you want: [Edward](https://github.com/cloudcmd/edward "Edward") (based on [Ace](http://ace.c9.io "Ace")) or [Dword](https://github.com/cloudcmd/dword "Dword") (based on
 [CodeMirror](http://codemirror.net "CodeMirror")).
 
 This two modules makes different API of editors work in the same way. Now they can compete
