@@ -83,12 +83,9 @@ Options:
 General help using Cloud Commander: <http://cloudcmd.io>
 ```
 
-You could define all options, set flag `--save` and just use Cloud Commander
-with predefined options. All of them will be saved in `~/.cloudcmd.json` file.
+You could define all options, set flag `--save` and just use Cloud Commander with predefined options. All of them will be saved in `~/.cloudcmd.json` file.
 
-**Tip**
-Do not set password by manually editing config file it will not work if you
-will not crypt it first.
+**Tip**: do not set password by manually editing config file it will not work if you will not crypt it first.
 
 ## Releases
 
