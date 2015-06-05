@@ -101,7 +101,7 @@ runny --command "wisdom patch" --directories "~/cloudocmd,/~cloudcmd-io,~/ru,~/r
 ```
 
 Actually directories could be placed to `~/.runny.json`:
-```json
+```js
 {
     "directories": [
         "~/cloudcmd",
