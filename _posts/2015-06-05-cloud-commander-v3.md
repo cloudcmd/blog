@@ -90,7 +90,7 @@ You could define all options, set flag `--save` and just use Cloud Commander wit
 ## Releases
 
 There is two little helpers that all do hard work related with releases:
-[wisdom](https://github.com/coderaiser/wisdom) and [runny](https://github.com/coderaiser/node/node-runny). First handle all
+[wisdom](https://github.com/coderaiser/wisdom) and [runny](https://github.com/coderaiser/node-runny). First handle all
 casual staf of making tags, realeses, push to github and publish to npm.
 And second one runs one command in a couple directories. So I could update
 [cloudcmd.io](http://cloudcmd.io "cloudcmd.io") with Russian and Ukrainian
