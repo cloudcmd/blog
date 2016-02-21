@@ -6,12 +6,12 @@ Cloud Commander [v1.2.0](https://github.com/coderaiser/cloudcmd/releases/tag/v1.
 During time between releases a lot work was done about decomposition of server side.
 
 On the way a lot modules where made and published on npm. We will talk about it today.
-Another big changes was with config, and a little bit new features would be to.
+Another big changes was with config, and a little bit new features would be too.
 
 ## Buffer
 
 Let's start from buffer. If you use one panel (on mobile device, for example) from now,
-you could copy and move files and folders. You could do it in two panels to by
+you could copy and move files and folders. You could do it in two panels too by
 using menu or hot keys `Ctrl + x`, `Ctrl + c`, `Ctrl + v`, `Ctrl + z`.
 
 
