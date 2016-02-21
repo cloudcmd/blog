@@ -24,7 +24,7 @@ were added.
 
 As you can see `appCache` was removed, and `Directory Storage` and `Buffer` was added.
 `Directory Storage` was enabled by default, but now it could be disabled. This option
-adds ability to store directory listings to `localStorage`. But not everybody things
+adds ability to store directory listings to `localStorage`. But not everybody thinks
 it's useful, so now can rule it whenever you like :).
 
 ## New Menu
