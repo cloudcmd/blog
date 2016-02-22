@@ -4,7 +4,7 @@ layout: post
 
 Last version we've talk about was [v3](http://blog.cloudcmd.io/post/cloud-commander-v3 "v3").
 Todays most acutal version is [v5.1.2](https://github.com/coderaiser/cloudcmd/releases/tag/v5.1.2 "v5.1.2") and
-what is happen with `Cloud Commander` during 2 major releases and a lot minors and patches it is main topic of todays talk.
+what is happen with `Cloud Commander` during 2 major releases and a lot minors and patches is a main topic of todays talk.
 
 ## Logout
 
