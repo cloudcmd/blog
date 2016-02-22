@@ -41,7 +41,7 @@ app.use(cloudcmd({
 server.listen(PORT);
 ```
 
-## Files packing
+## File packing
 
 You can pack couple files starting from [v3.7.0](https://github.com/coderaiser/cloudcmd/releases/tag/v3.7.0 "v3.7.0"). Nice feature to have.
 
