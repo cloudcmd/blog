@@ -32,9 +32,9 @@ socket = io.listen(server, {
 });
 
 app.use(cloudcmd({
-    socket: socket,     /* used by Config, Edit (optional) and Console (required)   */
-    config: {           /* config data (optional)                                   */
-        prefix: PREFIX, /* base URL or function which returns base URL (optional)   */
+    socket: socket,
+    config: {
+        prefix: PREFIX,
     }
 }));
 
