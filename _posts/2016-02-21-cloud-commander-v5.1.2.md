@@ -8,7 +8,7 @@ what is happen with `Cloud Commander` during 2 major releases and a lot minors a
 
 ## Logout
 
-That is right. Context menu now has [logout](https://github.com/coderaiser/cloudcmd/releases/tag/v3.2.0 "Log out") item, that will clear `http-auth` headers when you will click it.
+That is right. Context menu has logout item that will clear `http-auth` headers when you will click it starting from [v3.2.0](https://github.com/coderaiser/cloudcmd/releases/tag/v3.2.0 "v3.2.0")
 
 ## Middleware
 
