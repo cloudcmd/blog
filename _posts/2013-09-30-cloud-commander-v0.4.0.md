@@ -24,9 +24,9 @@ From now you could upload files via drag'n'drop. Just take file on desktop, move
 
 Funny and very useful routes was added:
 
-- [menu](http://io.cloudcmd.io#/menu "Menu")
-- [console](http://io.cloudcmd.io#/console "Console")
-- [edit](http://io.cloudcmd.io/fs/etc#/edit/passwd "Edit")
+- #menu
+- #console
+- #edit
 
 Removed **jquery-migrate** dependency so it would not load any more.
 
