@@ -7,10 +7,10 @@ A couple days ago new version of [Cloud Commander](http://cloudcmd.io "Cloud Com
 Lets talk a little bit about improvements.
 In [config](https://github.com/coderaiser/cloudcmd/blob/master/json/config.json#L4L5 "config") was added two new fields:
 
- -  localStorage
+ - localStorage
  - analytics
 
-Which are sett to true by default (as like that was earlier). 
+Which are turned on by default (as like that was earlier). 
 But you can turn off any of this options any time.
 
 Maximum re-connection attempts of web sockets was increased so if connection would be lost, it come back when server would be started again.
