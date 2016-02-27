@@ -12,7 +12,7 @@ pull requests are wellcome. Lets talk about new things that are waiting for you 
 
 ![Edit](http://files.cloudcmd.io/img/2014-07-03-cloud-commander-v1.0.0/path-buttons.png "Path Buttons")
 
-That's right. This icons hasn't changed so long time. Thay was with us almost from the start.
+That's right. This icons hasn't changed so long time. They was with us almost from the start.
 But the time is come for changing and now this icons is part of one Font icons set.
 
 ## Pathes in Console
